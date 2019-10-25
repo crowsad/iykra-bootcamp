@@ -1,0 +1,23 @@
+Kontrak 		: nomor kontrak
+Tipe_Kendaraan 		: tipe kendaraan yang dibeli
+Pekerjaan 		: jenis pekerjaan
+Area 			: area kantor tempat kredit diberikan
+Tenor 			: jangka waktu hutang yang diajukan (bulan)
+Bucket_Collectability 	: keterlambatan membayar hutang (hari)
+NPF			: non performing financing
+Total_AR 		: jumlah pinjaman yang diterima (juta rupiah)
+LTV 			: loan to value (%)
+OTR 			: harga beli mobil setelah ditambahkan dengan seluruh pajak dan berbagai dokumen lainnya (puluh juta rupiah)
+Age 			: usia (tahun)
+Interest_Rate 		: suku bunga bank indonesia (%)
+Income 			: pendapatan (juta rupiah)
+DP 			: uang muka (juta rupiah)
+AF 			: amount financed (juta rupiah)
+Tujuan 			: tujuan pembelian
+Pendidikan 		: tingkat pendidikan
+Tanggungan 		: jumlah tanggungan keluarga
+Status 			: status pernikahan peminjam
+Gender 			: gender peminjam
+Paket 			: paket kredit
+Inflasi 		: tingkat inflasi (%)
+Segmen 			: segmentasi transaksi
